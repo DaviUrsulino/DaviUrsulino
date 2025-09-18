@@ -30,4 +30,3 @@ Advanced Frontend Development
 
 📫 How to Reach Me
 Email: davizera0601@gmail.com
-
