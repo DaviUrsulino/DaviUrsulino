@@ -30,3 +30,5 @@ Advanced Frontend Development
 
 📫 How to Reach Me
 Email: davizera0601@gmail.com
+
+<p align="center"> <img src="https://raw.githubusercontent.com/DaviUrsulino/DaviUrsulino/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
