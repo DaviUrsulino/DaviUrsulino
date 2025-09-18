@@ -1,4 +1,4 @@
-# Hello, I'm Davi Ursulino 
+# Hello, I'm Davi Ursulino 👋
 
 **Full Stack Developer | Software Engineering Student at UnB**
 
@@ -40,7 +40,7 @@ I'm a developer from Brazil currently studying Software Engineering at the Unive
 
 ## 📫 How to Reach Me
 
-- Email: [davizera0601@gmail.com].
+- Email: [davizera0601@gmail.com](mailto:davizera0601@gmail.com)
 
 ---
 
