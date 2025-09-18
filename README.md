@@ -20,7 +20,7 @@ https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoCol
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 
 📊 GitHub Stats
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaviUrsulino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviUrsulino&layout=compact&langs_count=8&theme=dark"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DaviUrsulino&show_icons=true&theme=radical" alt="GitHub Stats" /> </p>
 🌱 Currently Learning
 Next.js
 
@@ -31,4 +31,4 @@ Advanced Frontend Development
 📫 How to Reach Me
 Email: davizera0601@gmail.com
 
-<p align="center"> <img src="https://raw.githubusercontent.com/DaviUrsulino/DaviUrsulino/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
+<p align="center"> <img src="https://github.com/DaviUrsulino/DaviUrsulino/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
